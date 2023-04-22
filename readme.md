@@ -1,0 +1,1 @@
+cloudformationのテンプレート置き場
